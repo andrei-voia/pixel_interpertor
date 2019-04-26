@@ -18,4 +18,4 @@ And after the convertion:
 ## More functionality
 
 Another thing you can do with this code is margin softness. This means that when 2 different pixels intersect, you can replace them with a combination of the two. 
-* The program can detect when there is a corner too between 2 textures
+* The program can also detect when there is a corner too between 2 textures
